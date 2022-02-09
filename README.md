@@ -24,3 +24,6 @@ pip install -r requirements.txt
 python <filename>.py
 ```
 
+# Artwork generated
+
+* [Non self tracing spiral](https://www.instagram.com/p/CZw1rkzvg7j/)
