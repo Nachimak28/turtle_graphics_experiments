@@ -27,3 +27,9 @@ python <filename>.py
 # Artwork generated
 
 * [Non self tracing spiral](https://www.instagram.com/p/CZw1rkzvg7j/)
+
+
+# Helpful links
+* https://docs.python.org/3.7/library/turtle.html
+* https://stackoverflow.com/questions/16119991/how-to-speed-up-pythons-turtle-function-and-stop-it-freezing-at-the-end
+* https://stackoverflow.com/questions/4071633/turtle-module-saving-an-image
