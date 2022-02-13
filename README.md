@@ -27,7 +27,7 @@ python <filename>.py
 # Artwork generated
 
 * [Non self tracing spiral](https://www.instagram.com/p/CZw1rkzvg7j/)
-
+* [Sierpinski Triangle](https://www.instagram.com/p/CZ02pfzP_HY/)
 
 # Helpful links
 * https://docs.python.org/3.7/library/turtle.html
