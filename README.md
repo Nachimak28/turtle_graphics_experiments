@@ -28,7 +28,7 @@ python <filename>.py
 
 * [Non self tracing spiral](https://www.instagram.com/p/CZw1rkzvg7j/)
 * [Sierpinski Triangle](https://www.instagram.com/p/CZ02pfzP_HY/)
-* [Rainbow Benzene](https://www.instagram.com/p/CZ8qN5OvVTT/)
+* [Rainbow Benzene](https://www.instagram.com/p/CZ81bOKrT1F/)
 
 # Helpful links
 * https://docs.python.org/3.7/library/turtle.html
